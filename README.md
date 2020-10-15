@@ -33,20 +33,12 @@ git init
 git clone https://github.com/Valida-CPF/node-js-valida-cpf.git
 ```
 
-#### 2. Limpar cache
-```
-npm cache clean --force
-```
-
-#### 3. Excluir arquivos
-Delete o arquivo **package-lock.json** e a pasta **node_modules**
-
-#### 4. Instalar NPM
+#### 2. Instalar NPM
 ```
 npm install
 ```
 
-#### 5. Rodar a aplicação
+#### 3. Rodar a aplicação
 ```
 npm run dev
 ```
